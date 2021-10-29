@@ -1,0 +1,11 @@
+{
+  "name": "Green Shirt",
+  "description": "Red hugo boss shirt",
+  "brand": "Hugo Boss",
+  "tags": [
+    "red",
+    "shirt",
+    "slim fit"
+  ],
+  "category" : "apparel"
+}
